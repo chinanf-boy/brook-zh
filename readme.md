@@ -9,7 +9,7 @@
 
 ---
 
-## 校对 🀄️
+## 校对 ✅
 
 <!-- doc-templite START generated -->
 <!-- repo = 'txthinking/brook' -->
@@ -26,7 +26,7 @@
 <!-- doc-templite END generated -->
 
 - [x] readme
-- [ ] [wiki](https://github.com/chinanf-boy/brook-zh/wiki)
+- [x] [wiki](https://github.com/chinanf-boy/brook-zh/wiki)
 
 ### 贡献
 
